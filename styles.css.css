@@ -255,7 +255,7 @@ color : #2f3640;
 
 .parallax {
   /* The image used */
-  background-image: url("./images/nature.PNG");
+  background-image: url("/images/nature.PNG");
 
   /* Set a specific height */
   height: 100%;
