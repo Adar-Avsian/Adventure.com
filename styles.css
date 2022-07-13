@@ -27,7 +27,7 @@ svg {
 }
 
 img:hover {
-  transform: scale(1.02);
+  transform: scale(1.05);
 }
 
 p:hover, h2:hover {
